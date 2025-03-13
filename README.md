@@ -1,1 +1,1 @@
-Please open the document opened VIA Colab
+Please open the document uploaded VIA Colab
